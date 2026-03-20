@@ -24,4 +24,5 @@ ul li a {
 ul li a:hover {
   background: var(--surface-color-hover);
   border-radius: 1.5px solid var(--text-color);
+  border-radius: 8px;
 }
