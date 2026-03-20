@@ -6,7 +6,7 @@
 
 body {
   /*background: color image repeat position/size*/
-  background: var(--bg-ulr) no-repeat top center/cover;
+  background: var(--bg-url) no-repeat top center/cover;
 }
 
 body * {
@@ -32,7 +32,7 @@ body * {
 
 .light {
   --text-color: black;
-  --bg-ulr: url(../assets/bg-mobile-light.jpg);
+  --bg-url: url(../assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.2);
