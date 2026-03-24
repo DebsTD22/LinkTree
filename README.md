@@ -8,6 +8,9 @@
    <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+&nbsp;
+<img src="./github/Cover.png" alt="avatar" />
+&nbsp;
 
 Projeto de uma página estilo Linktree desenvolvida com HTML, CSS e JavaScript, com o objetivo de centralizar links importantes em uma interface simples, responsiva e personalizada.
 
@@ -15,29 +18,29 @@ Este projeto foi desenvolvido com base nos conhecimentos adquiridos na trilha Di
 
 ## Tecnologias Utilizadas
 
- - HTML5
+- HTML5
 
- - CSS3 (Flexbox e responsividade)
+- CSS3 (Flexbox e responsividade)
 
- - JavaScript (interatividade e manipulação do DOM)
+- JavaScript (interatividade e manipulação do DOM)
 
 ## Funcionalidades
 
- - Exibição de foto de perfil e nome do usuário
+- Exibição de foto de perfil e nome do usuário
 
- - Lista de links personalizados
+- Lista de links personalizados
 
- - Design responsivo (adaptado para mobile e desktop)
+- Design responsivo (adaptado para mobile e desktop)
 
- - Efeitos visuais com hover nos botões
+- Efeitos visuais com hover nos botões
 
- - Modo noturno
+- Modo noturno
 
- - Estrutura simples e de fácil manutenção
+- Estrutura simples e de fácil manutenção
 
 ## Objetivo do Projeto
 
-Praticar e consolidar conhecimentos em  desenvolvimento front-end, utilizando boas  práticas de estruturação, estilização e  interatividade, além de transformar o aprendizado  teórico da trilha Discover em um projeto real.
+Praticar e consolidar conhecimentos em desenvolvimento front-end, utilizando boas práticas de estruturação, estilização e interatividade, além de transformar o aprendizado teórico da trilha Discover em um projeto real.
 
 ## Layout
 
