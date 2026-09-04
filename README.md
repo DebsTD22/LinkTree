@@ -1,47 +1,45 @@
-<h1 align="center"> LinkTree </h1>
+<h1 align="center"> Personal Links </h1>
 <p align="center"><a href="https://debstd22.github.io/LinkTree/">Acesse o projeto finalizado clicando aqui</a></p>
 
-<p align="center">
-   <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#objetivo-do-projeto">Objetivo do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;
-</p>
 
-&nbsp;
-<img src="./github/Cover.png" alt="avatar" />
-&nbsp;
+Personalized links page developed as part of Rocketseat's Discover program.
 
-Projeto de uma página estilo Linktree desenvolvida com HTML, CSS e JavaScript, com o objetivo de centralizar links importantes em uma interface simples, responsiva e personalizada.
+The project was customized with my own visual identity, including colors, profile information and personal links, while practicing the fundamentals of HTML, CSS and JavaScript.
 
-Este projeto foi desenvolvido com base nos conhecimentos adquiridos na trilha Discover da Rocketseat, aplicando na prática conceitos fundamentais do desenvolvimento front-end.
-
-## Tecnologias Utilizadas
+## Technologies
 
 - HTML5
 
-- CSS3 (Flexbox e responsividade)
+- CSS3 
 
-- JavaScript (interatividade e manipulação do DOM)
+- JavaScript 
 
-## Funcionalidades
+## Features
 
-- Exibição de foto de perfil e nome do usuário
+- Responsive layout
+- Light and dark themes
+- Personalized profile
+- Custom navigation links
+- Hover interactions
 
-- Lista de links personalizados
+## Objective / Origin
 
-- Design responsivo (adaptado para mobile e desktop)
+This project is based on the DevLinks project from Rocketseat's Discover program.  
+The original project provided the foundation for the layout and implementation, which I customized with my own content and visual identity.
 
-- Efeitos visuais com hover nos botões
+Practice and consolidate knowledge in front-end development, using best practices in structuring, styling, and interactivity, in addition to transforming the theoretical learning from the Discover track into a real project.
 
-- Modo noturno
 
-- Estrutura simples e de fácil manutenção
 
-## Objetivo do Projeto
 
-Praticar e consolidar conhecimentos em desenvolvimento front-end, utilizando boas práticas de estruturação, estilização e interatividade, além de transformar o aprendizado teórico da trilha Discover em um projeto real.
 
-## Layout
 
-Você pode visualizar o layout do projeto <a href="https://www.figma.com/design/NW95gdv54Iqw6ysGk7ulKU/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=t8Bj5SHU6UfaXfvt-0">CLICANDO AQUI</a>. É necessário ter conta do <a href="https://www.figma.com/login?is_not_gen_0=true">FIGMA</a> para acessá-lo.
+
+
+
+
+
+
+## 
+
+
